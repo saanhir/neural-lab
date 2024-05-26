@@ -5,3 +5,4 @@ Generally each will be implemented in a single Jupyter file.
 ## List
 1. MLP network from scratch using only numpy, trained on the MNIST dataset.
 2. LSTM network with a full implementation, borrowing some math and functionality from PyTorch.
+3. Copying task benchmark for sequence models, outlined in Arjovsky, Shah, & Bengio (2016)
